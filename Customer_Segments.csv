@@ -1,0 +1,435 @@
+Customer ID,Customer Age,Gender,Category,Purchase Amount (USD),Location,Review Rating,Frequency of Purchases,Frequency_num,Value_Segment,Satisfaction
+1,55,Male,Clothing,53,Kentucky,3.1,Fortnightly,4.0,Medium,Unsatisfied
+2,19,Male,Clothing,64,Maine,3.1,Fortnightly,4.0,Medium,Unsatisfied
+3,50,Male,Clothing,73,Massachusetts,3.1,Weekly,5.0,High,Unsatisfied
+4,21,Male,Footwear,90,Rhode Island,3.5,Weekly,5.0,High,Unsatisfied
+5,45,Male,Clothing,49,Oregon,2.7,Annually,1.0,Medium,Unsatisfied
+6,46,Male,Footwear,20,Wyoming,2.9,Weekly,5.0,Low,Unsatisfied
+7,63,Male,Clothing,85,Montana,3.2,Quarterly,2.0,High,Unsatisfied
+8,27,Male,Clothing,34,Louisiana,3.2,Weekly,5.0,Low,Unsatisfied
+9,26,Male,Outerwear,97,West Virginia,2.6,Annually,1.0,High,Unsatisfied
+10,57,Male,Accessories,31,Missouri,4.8,Quarterly,2.0,Low,Satisfied
+11,53,Male,Footwear,34,Arkansas,4.1,Bi-Weekly,4.0,Low,Satisfied
+12,30,Male,Clothing,68,Hawaii,4.9,Fortnightly,4.0,Medium,Satisfied
+13,61,Male,Outerwear,72,Delaware,4.5,Fortnightly,4.0,Medium,Satisfied
+14,65,Male,Clothing,51,New Hampshire,4.7,Weekly,5.0,Medium,Satisfied
+15,64,Male,Outerwear,53,New York,4.7,Weekly,5.0,Medium,Satisfied
+16,64,Male,Clothing,81,Rhode Island,2.8,Monthly,3.0,High,Unsatisfied
+17,25,Male,Accessories,36,Alabama,4.1,Bi-Weekly,4.0,Low,Satisfied
+18,53,Male,Clothing,38,Mississippi,4.7,Quarterly,2.0,Low,Satisfied
+19,52,Male,Clothing,48,Montana,4.6,Weekly,5.0,Medium,Satisfied
+20,66,Male,Clothing,90,Rhode Island,3.3,Bi-Weekly,4.0,High,Unsatisfied
+22,31,Male,Clothing,62,North Carolina,4.1,Quarterly,2.0,Medium,Satisfied
+23,56,Male,Clothing,37,California,3.2,Annually,1.0,Low,Unsatisfied
+24,31,Male,Clothing,88,Oklahoma,4.4,Weekly,5.0,High,Satisfied
+25,18,Male,Outerwear,22,Florida,2.9,Weekly,5.0,Low,Unsatisfied
+26,18,Male,Clothing,25,Texas,3.6,Annually,1.0,Low,Satisfied
+27,38,Male,Accessories,20,Nevada,3.6,Annually,1.0,Low,Satisfied
+30,31,Male,Clothing,48,Wyoming,4.1,Weekly,5.0,Medium,Satisfied
+31,57,Male,Accessories,31,North Carolina,4.7,Monthly,3.0,Low,Satisfied
+32,33,Male,Clothing,79,West Virginia,4.7,Monthly,3.0,High,Satisfied
+33,36,Male,Outerwear,67,Kansas,4.9,Annually,1.0,Medium,Satisfied
+34,54,Male,Clothing,38,Colorado,3.3,Quarterly,2.0,Low,Unsatisfied
+35,36,Male,Clothing,91,North Dakota,4.6,Quarterly,2.0,High,Satisfied
+36,54,Male,Clothing,33,Massachusetts,4.0,Bi-Weekly,4.0,Low,Satisfied
+37,35,Male,Clothing,69,Illinois,4.6,Fortnightly,4.0,Medium,Satisfied
+38,35,Male,Clothing,45,Indiana,2.8,Weekly,5.0,Low,Unsatisfied
+40,70,Male,Clothing,60,Arizona,4.2,Monthly,3.0,Medium,Satisfied
+41,69,Male,Accessories,76,Louisiana,4.6,Quarterly,2.0,High,Satisfied
+42,67,Male,Accessories,39,Alaska,4.5,Annually,1.0,Low,Satisfied
+43,20,Male,Outerwear,100,Tennessee,4.1,Annually,1.0,High,Satisfied
+44,25,Male,Accessories,69,Ohio,3.7,Fortnightly,4.0,Medium,Satisfied
+45,39,Male,Accessories,53,Kentucky,4.6,Weekly,5.0,Medium,Satisfied
+46,50,Male,Clothing,21,Tennessee,2.9,Annually,1.0,Low,Unsatisfied
+47,57,Male,Clothing,43,California,2.9,Quarterly,2.0,Low,Unsatisfied
+48,55,Male,Accessories,54,Montana,4.5,Weekly,5.0,Medium,Satisfied
+49,42,Male,Clothing,55,Nevada,2.7,Monthly,3.0,Medium,Unsatisfied
+50,68,Male,Clothing,30,New Jersey,4.6,Bi-Weekly,4.0,Low,Satisfied
+51,49,Male,Clothing,28,Maryland,3.7,Bi-Weekly,4.0,Low,Satisfied
+52,59,Male,Clothing,59,Vermont,4.7,Quarterly,2.0,Medium,Satisfied
+53,42,Male,Clothing,20,Alaska,2.6,Weekly,5.0,Low,Unsatisfied
+54,29,Male,Clothing,24,Mississippi,3.9,Weekly,5.0,Low,Satisfied
+55,47,Male,Outerwear,94,New Mexico,4.2,Bi-Weekly,4.0,High,Satisfied
+56,40,Male,Outerwear,28,South Carolina,3.0,Annually,1.0,Low,Unsatisfied
+57,41,Male,Accessories,73,Mississippi,4.7,Weekly,5.0,High,Satisfied
+58,21,Male,Outerwear,64,West Virginia,4.4,Fortnightly,4.0,Medium,Satisfied
+59,69,Male,Clothing,54,Missouri,4.2,Monthly,3.0,Medium,Satisfied
+60,63,Male,Accessories,79,Louisiana,4.6,Weekly,5.0,High,Satisfied
+61,50,Male,Clothing,37,Idaho,4.0,Weekly,5.0,Low,Satisfied
+63,30,Male,Footwear,21,Mississippi,3.8,Fortnightly,4.0,Low,Satisfied
+64,33,Male,Accessories,79,Arizona,2.7,Weekly,5.0,High,Unsatisfied
+65,65,Male,Footwear,83,Alabama,4.8,Fortnightly,4.0,High,Satisfied
+68,45,Male,Outerwear,33,Connecticut,4.4,Monthly,3.0,Low,Satisfied
+70,48,Male,Accessories,70,Tennessee,4.4,Weekly,5.0,Medium,Satisfied
+72,36,Male,Clothing,48,Virginia,2.9,Annually,1.0,Medium,Unsatisfied
+74,48,Male,Clothing,85,Hawaii,2.7,Bi-Weekly,4.0,High,Unsatisfied
+75,49,Male,Accessories,58,Indiana,4.5,Monthly,3.0,Medium,Satisfied
+76,64,Male,Accessories,85,Utah,2.7,Annually,1.0,High,Unsatisfied
+77,50,Male,Accessories,43,Delaware,4.2,Monthly,3.0,Low,Satisfied
+78,22,Male,Clothing,53,Delaware,3.3,Fortnightly,4.0,Medium,Unsatisfied
+79,50,Male,Clothing,91,Nebraska,4.7,Fortnightly,4.0,High,Satisfied
+84,36,Male,Clothing,40,Texas,4.1,Weekly,5.0,Low,Satisfied
+86,53,Male,Accessories,95,New Mexico,4.5,Bi-Weekly,4.0,High,Satisfied
+87,24,Male,Clothing,41,Nevada,3.7,Bi-Weekly,4.0,Low,Satisfied
+88,52,Male,Footwear,53,Ohio,3.7,Fortnightly,4.0,Medium,Satisfied
+89,33,Male,Clothing,47,Wyoming,3.5,Monthly,3.0,Medium,Unsatisfied
+90,47,Male,Outerwear,83,California,3.6,Quarterly,2.0,High,Satisfied
+91,25,Male,Accessories,48,South Carolina,2.9,Monthly,3.0,Medium,Unsatisfied
+94,37,Male,Clothing,62,Florida,4.5,Weekly,5.0,Medium,Satisfied
+95,58,Male,Clothing,76,Nevada,4.6,Weekly,5.0,High,Satisfied
+96,37,Male,Footwear,100,Missouri,3.8,Monthly,3.0,High,Satisfied
+98,21,Male,Footwear,92,Virginia,4.8,Annually,1.0,High,Satisfied
+99,20,Male,Clothing,67,New York,2.6,Annually,1.0,Medium,Unsatisfied
+100,26,Male,Clothing,40,Missouri,3.7,Quarterly,2.0,Low,Satisfied
+101,62,Male,Accessories,98,South Dakota,2.7,Fortnightly,4.0,High,Unsatisfied
+102,27,Male,Outerwear,85,North Dakota,4.6,Bi-Weekly,4.0,High,Satisfied
+103,51,Male,Clothing,67,Oklahoma,4.8,Quarterly,2.0,Medium,Satisfied
+104,54,Male,Footwear,89,West Virginia,4.0,Bi-Weekly,4.0,High,Satisfied
+105,55,Male,Accessories,24,New Hampshire,4.4,Monthly,3.0,Low,Satisfied
+106,69,Male,Accessories,96,New York,3.6,Annually,1.0,High,Satisfied
+107,64,Male,Outerwear,35,Minnesota,3.7,Monthly,3.0,Low,Satisfied
+108,28,Male,Footwear,67,Maryland,3.1,Fortnightly,4.0,Medium,Unsatisfied
+109,70,Male,Clothing,79,Montana,3.4,Bi-Weekly,4.0,High,Unsatisfied
+110,58,Male,Clothing,85,Alabama,2.6,Fortnightly,4.0,High,Unsatisfied
+111,56,Male,Accessories,26,New York,4.0,Fortnightly,4.0,Low,Satisfied
+112,26,Male,Accessories,75,Massachusetts,5.0,Annually,1.0,High,Satisfied
+113,37,Male,Accessories,65,Florida,4.3,Bi-Weekly,4.0,Medium,Satisfied
+114,44,Male,Accessories,54,New Jersey,3.1,Quarterly,2.0,Medium,Unsatisfied
+115,70,Male,Outerwear,95,Massachusetts,3.7,Weekly,5.0,High,Satisfied
+117,55,Male,Footwear,86,Virginia,3.4,Annually,1.0,High,Unsatisfied
+118,50,Male,Footwear,32,South Dakota,4.6,Fortnightly,4.0,Low,Satisfied
+119,50,Male,Clothing,45,Kentucky,4.8,Bi-Weekly,4.0,Low,Satisfied
+120,38,Male,Outerwear,76,Wyoming,4.3,Annually,1.0,High,Satisfied
+121,64,Male,Accessories,84,West Virginia,4.0,Annually,1.0,High,Satisfied
+122,19,Male,Clothing,72,Virginia,4.2,Fortnightly,4.0,Medium,Satisfied
+123,40,Male,Accessories,40,Washington,4.8,Fortnightly,4.0,Low,Satisfied
+124,57,Male,Clothing,89,Louisiana,3.1,Weekly,5.0,High,Unsatisfied
+125,44,Male,Clothing,86,Nevada,3.1,Annually,1.0,High,Unsatisfied
+128,24,Male,Clothing,89,Mississippi,4.8,Weekly,5.0,High,Satisfied
+129,20,Male,Accessories,32,California,4.7,Fortnightly,4.0,Low,Satisfied
+130,24,Male,Clothing,67,Pennsylvania,4.2,Bi-Weekly,4.0,Medium,Satisfied
+131,44,Male,Accessories,39,Kentucky,3.7,Fortnightly,4.0,Low,Satisfied
+132,28,Male,Clothing,29,Maine,3.9,Weekly,5.0,Low,Satisfied
+133,30,Male,Accessories,58,New Mexico,4.7,Weekly,5.0,Medium,Satisfied
+134,52,Male,Clothing,65,Montana,2.5,Annually,1.0,Medium,Unsatisfied
+135,43,Male,Accessories,94,Texas,4.9,Monthly,3.0,High,Satisfied
+136,43,Male,Footwear,81,Kansas,4.1,Quarterly,2.0,High,Satisfied
+137,39,Male,Clothing,86,South Carolina,3.3,Quarterly,2.0,High,Unsatisfied
+138,68,Male,Footwear,43,Colorado,4.7,Weekly,5.0,Low,Satisfied
+139,68,Male,Clothing,29,Georgia,4.4,Weekly,5.0,Low,Satisfied
+140,49,Male,Outerwear,95,Florida,3.8,Annually,1.0,High,Satisfied
+141,63,Male,Clothing,28,North Carolina,3.9,Weekly,5.0,Low,Satisfied
+142,56,Male,Accessories,46,Virginia,4.9,Weekly,5.0,Low,Satisfied
+143,37,Male,Outerwear,58,Nebraska,3.1,Fortnightly,4.0,Medium,Unsatisfied
+144,30,Male,Outerwear,48,Missouri,2.7,Quarterly,2.0,Medium,Unsatisfied
+145,19,Male,Footwear,43,New Jersey,3.2,Monthly,3.0,Low,Unsatisfied
+146,24,Male,Accessories,95,Missouri,4.5,Quarterly,2.0,High,Satisfied
+147,52,Male,Clothing,30,Colorado,4.0,Fortnightly,4.0,Low,Satisfied
+148,63,Male,Footwear,64,Idaho,3.5,Fortnightly,4.0,Medium,Unsatisfied
+149,37,Male,Accessories,90,Wyoming,2.6,Annually,1.0,High,Unsatisfied
+150,38,Male,Clothing,76,Delaware,3.2,Monthly,3.0,High,Unsatisfied
+152,28,Male,Accessories,47,North Dakota,4.5,Annually,1.0,Medium,Satisfied
+153,30,Male,Clothing,85,South Carolina,4.3,Annually,1.0,High,Satisfied
+154,69,Male,Clothing,55,North Carolina,3.2,Annually,1.0,Medium,Unsatisfied
+155,41,Male,Clothing,98,Oklahoma,3.6,Quarterly,2.0,High,Satisfied
+156,63,Male,Clothing,77,Maine,4.3,Quarterly,2.0,High,Satisfied
+157,35,Male,Clothing,26,Missouri,4.0,Annually,1.0,Low,Satisfied
+158,36,Male,Accessories,68,Vermont,3.0,Fortnightly,4.0,Medium,Unsatisfied
+159,25,Male,Clothing,73,Connecticut,4.1,Monthly,3.0,High,Satisfied
+161,27,Male,Accessories,23,Texas,4.6,Monthly,3.0,Low,Satisfied
+162,65,Male,Accessories,49,North Dakota,3.0,Fortnightly,4.0,Medium,Unsatisfied
+163,54,Male,Accessories,74,California,3.0,Bi-Weekly,4.0,High,Unsatisfied
+164,54,Male,Clothing,67,Virginia,3.4,Weekly,5.0,Medium,Unsatisfied
+165,59,Male,Accessories,65,Delaware,2.6,Fortnightly,4.0,Medium,Unsatisfied
+166,42,Male,Accessories,60,Kentucky,2.8,Monthly,3.0,Medium,Unsatisfied
+167,46,Male,Footwear,31,Delaware,4.0,Monthly,3.0,Low,Satisfied
+169,34,Male,Footwear,80,Louisiana,3.0,Fortnightly,4.0,High,Unsatisfied
+171,52,Male,Clothing,25,Wyoming,2.6,Bi-Weekly,4.0,Low,Unsatisfied
+172,29,Male,Clothing,35,Virginia,3.6,Weekly,5.0,Low,Satisfied
+173,54,Male,Accessories,67,Nebraska,3.9,Bi-Weekly,4.0,Medium,Satisfied
+174,25,Male,Accessories,46,Hawaii,3.4,Annually,1.0,Low,Unsatisfied
+175,41,Male,Footwear,35,Vermont,3.5,Annually,1.0,Low,Unsatisfied
+176,53,Male,Outerwear,86,Oklahoma,2.8,Annually,1.0,High,Unsatisfied
+177,53,Male,Accessories,81,New Hampshire,2.7,Quarterly,2.0,High,Unsatisfied
+178,21,Male,Clothing,42,Kansas,3.7,Monthly,3.0,Low,Satisfied
+179,61,Male,Clothing,43,Idaho,4.3,Quarterly,2.0,Low,Satisfied
+180,64,Male,Footwear,31,Illinois,4.9,Fortnightly,4.0,Low,Satisfied
+181,51,Male,Footwear,81,South Dakota,3.3,Fortnightly,4.0,High,Unsatisfied
+182,32,Male,Clothing,61,Massachusetts,4.7,Weekly,5.0,Medium,Satisfied
+183,38,Male,Accessories,96,Alabama,2.8,Annually,1.0,High,Unsatisfied
+184,58,Male,Clothing,29,Ohio,3.6,Weekly,5.0,Low,Satisfied
+185,32,Male,Footwear,33,Hawaii,3.0,Fortnightly,4.0,Low,Unsatisfied
+186,46,Male,Clothing,32,Wisconsin,4.5,Fortnightly,4.0,Low,Satisfied
+187,39,Male,Accessories,56,Minnesota,2.9,Annually,1.0,Medium,Unsatisfied
+188,19,Male,Footwear,94,Georgia,3.3,Bi-Weekly,4.0,High,Unsatisfied
+189,50,Male,Clothing,53,Arkansas,3.1,Bi-Weekly,4.0,Medium,Unsatisfied
+190,36,Male,Clothing,82,West Virginia,4.4,Weekly,5.0,High,Satisfied
+191,65,Male,Outerwear,70,Indiana,3.0,Quarterly,2.0,Medium,Unsatisfied
+193,46,Male,Footwear,29,Nebraska,2.9,Bi-Weekly,4.0,Low,Unsatisfied
+194,36,Male,Accessories,100,North Dakota,3.0,Annually,1.0,High,Unsatisfied
+195,51,Male,Accessories,94,Missouri,3.1,Quarterly,2.0,High,Unsatisfied
+196,51,Male,Outerwear,25,New York,4.3,Monthly,3.0,Low,Satisfied
+197,38,Male,Footwear,88,Washington,3.9,Fortnightly,4.0,High,Satisfied
+198,59,Male,Accessories,78,South Carolina,3.2,Monthly,3.0,High,Unsatisfied
+199,57,Male,Accessories,45,Utah,4.8,Fortnightly,4.0,Low,Satisfied
+200,54,Male,Accessories,73,Idaho,3.8,Weekly,5.0,High,Satisfied
+201,25,Male,Clothing,61,Pennsylvania,3.3,Monthly,3.0,Medium,Unsatisfied
+202,69,Male,Clothing,22,Missouri,4.3,Annually,1.0,Low,Satisfied
+203,57,Male,Accessories,38,Nebraska,2.7,Annually,1.0,Low,Unsatisfied
+204,70,Male,Accessories,38,Indiana,3.2,Weekly,5.0,Low,Unsatisfied
+205,24,Male,Footwear,100,Arizona,4.0,Bi-Weekly,4.0,High,Satisfied
+206,67,Male,Clothing,64,Hawaii,3.0,Weekly,5.0,Medium,Unsatisfied
+207,24,Male,Clothing,55,Wisconsin,4.2,Fortnightly,4.0,Medium,Satisfied
+208,62,Male,Accessories,91,Rhode Island,2.9,Bi-Weekly,4.0,High,Unsatisfied
+209,57,Male,Clothing,38,Wisconsin,4.1,Monthly,3.0,Low,Satisfied
+211,45,Male,Outerwear,22,Vermont,3.0,Fortnightly,4.0,Low,Unsatisfied
+212,69,Male,Clothing,92,South Dakota,4.2,Fortnightly,4.0,High,Satisfied
+213,67,Male,Accessories,84,Virginia,4.2,Annually,1.0,High,Satisfied
+216,62,Male,Accessories,64,New Jersey,2.8,Bi-Weekly,4.0,Medium,Unsatisfied
+217,43,Male,Clothing,61,Massachusetts,3.7,Weekly,5.0,Medium,Satisfied
+218,35,Male,Accessories,48,Oklahoma,3.5,Annually,1.0,Medium,Unsatisfied
+219,28,Male,Clothing,45,California,2.9,Quarterly,2.0,Low,Unsatisfied
+220,32,Male,Accessories,88,Nevada,3.0,Fortnightly,4.0,High,Unsatisfied
+221,39,Male,Footwear,57,Arizona,3.7,Fortnightly,4.0,Medium,Satisfied
+222,28,Male,Accessories,68,North Carolina,4.4,Quarterly,2.0,Medium,Satisfied
+223,47,Male,Accessories,94,New York,4.5,Fortnightly,4.0,High,Satisfied
+224,20,Male,Clothing,41,Wyoming,4.8,Annually,1.0,Low,Satisfied
+226,25,Male,Outerwear,22,Arkansas,3.2,Annually,1.0,Low,Unsatisfied
+227,29,Male,Footwear,74,Texas,3.3,Monthly,3.0,High,Unsatisfied
+228,50,Male,Clothing,90,Rhode Island,4.2,Fortnightly,4.0,High,Satisfied
+229,18,Male,Clothing,79,New Hampshire,2.9,Annually,1.0,High,Unsatisfied
+231,66,Male,Accessories,88,Utah,4.1,Annually,1.0,High,Satisfied
+233,54,Male,Accessories,27,Hawaii,4.2,Bi-Weekly,4.0,Low,Satisfied
+235,20,Male,Accessories,39,South Dakota,3.7,Weekly,5.0,Low,Satisfied
+236,43,Male,Accessories,89,New Jersey,3.7,Quarterly,2.0,High,Satisfied
+237,38,Male,Outerwear,68,North Dakota,3.4,Fortnightly,4.0,Medium,Unsatisfied
+238,50,Male,Clothing,90,Iowa,3.0,Fortnightly,4.0,High,Unsatisfied
+239,64,Male,Clothing,34,Ohio,4.2,Annually,1.0,Low,Satisfied
+240,49,Male,Clothing,51,Vermont,2.9,Bi-Weekly,4.0,Medium,Unsatisfied
+241,47,Male,Clothing,45,Montana,3.5,Fortnightly,4.0,Low,Unsatisfied
+242,36,Male,Clothing,88,Delaware,4.1,Bi-Weekly,4.0,High,Satisfied
+244,25,Male,Accessories,100,Kentucky,2.8,Monthly,3.0,High,Unsatisfied
+245,53,Male,Accessories,42,Oregon,4.9,Weekly,5.0,Low,Satisfied
+246,49,Male,Footwear,53,Rhode Island,3.3,Fortnightly,4.0,Medium,Unsatisfied
+247,35,Male,Accessories,86,Nevada,3.2,Bi-Weekly,4.0,High,Unsatisfied
+248,29,Male,Clothing,66,Montana,4.4,Weekly,5.0,Medium,Satisfied
+249,47,Male,Accessories,100,Pennsylvania,4.8,Weekly,5.0,High,Satisfied
+250,53,Male,Accessories,47,Alaska,4.2,Annually,1.0,Medium,Satisfied
+251,33,Male,Clothing,25,Mississippi,4.0,Weekly,5.0,Low,Satisfied
+252,21,Male,Accessories,51,Wyoming,2.5,Annually,1.0,Medium,Unsatisfied
+253,32,Male,Clothing,41,Delaware,3.9,Fortnightly,4.0,Low,Satisfied
+254,52,Male,Footwear,73,Oklahoma,4.9,Bi-Weekly,4.0,High,Satisfied
+255,67,Male,Accessories,42,Indiana,3.5,Bi-Weekly,4.0,Low,Unsatisfied
+256,43,Male,Accessories,20,Maryland,4.2,Annually,1.0,Low,Satisfied
+258,20,Male,Accessories,53,West Virginia,4.5,Quarterly,2.0,Medium,Satisfied
+259,61,Male,Accessories,74,Alabama,2.8,Quarterly,2.0,High,Unsatisfied
+260,32,Male,Clothing,57,Louisiana,2.9,Annually,1.0,Medium,Unsatisfied
+262,21,Male,Clothing,77,California,4.9,Annually,1.0,High,Satisfied
+263,37,Male,Clothing,40,Hawaii,3.7,Annually,1.0,Low,Satisfied
+264,27,Male,Clothing,46,Iowa,4.3,Monthly,3.0,Low,Satisfied
+265,36,Male,Clothing,78,Colorado,3.9,Annually,1.0,High,Satisfied
+266,32,Male,Accessories,59,Michigan,3.2,Bi-Weekly,4.0,Medium,Unsatisfied
+267,51,Male,Accessories,75,Louisiana,3.1,Weekly,5.0,High,Unsatisfied
+268,64,Male,Clothing,54,Maryland,3.9,Annually,1.0,Medium,Satisfied
+269,68,Male,Footwear,42,Georgia,2.6,Monthly,3.0,Low,Unsatisfied
+270,68,Male,Clothing,44,Georgia,3.3,Bi-Weekly,4.0,Low,Unsatisfied
+271,33,Male,Clothing,52,North Dakota,4.6,Annually,1.0,Medium,Satisfied
+272,65,Male,Accessories,69,Maryland,4.6,Fortnightly,4.0,Medium,Satisfied
+273,48,Male,Accessories,26,Oregon,4.4,Bi-Weekly,4.0,Low,Satisfied
+274,69,Male,Outerwear,33,North Dakota,4.2,Quarterly,2.0,Low,Satisfied
+275,59,Male,Accessories,32,Maryland,3.0,Bi-Weekly,4.0,Low,Unsatisfied
+276,48,Male,Accessories,85,Virginia,4.0,Weekly,5.0,High,Satisfied
+277,25,Male,Clothing,30,South Dakota,3.5,Fortnightly,4.0,Low,Unsatisfied
+278,29,Male,Clothing,29,Georgia,3.0,Bi-Weekly,4.0,Low,Unsatisfied
+279,57,Male,Clothing,95,Hawaii,3.7,Annually,1.0,High,Satisfied
+280,23,Male,Footwear,69,Arkansas,4.0,Monthly,3.0,Medium,Satisfied
+281,45,Male,Footwear,69,Montana,4.2,Bi-Weekly,4.0,Medium,Satisfied
+282,38,Male,Accessories,61,Oklahoma,2.5,Bi-Weekly,4.0,Medium,Unsatisfied
+283,21,Male,Clothing,94,Minnesota,3.0,Monthly,3.0,High,Unsatisfied
+284,32,Male,Clothing,30,Montana,3.2,Annually,1.0,Low,Unsatisfied
+285,63,Male,Clothing,45,Ohio,3.5,Quarterly,2.0,Low,Unsatisfied
+286,29,Male,Accessories,39,Kentucky,4.8,Bi-Weekly,4.0,Low,Satisfied
+287,27,Male,Accessories,51,Nebraska,2.6,Annually,1.0,Medium,Unsatisfied
+288,56,Male,Accessories,37,Delaware,3.4,Fortnightly,4.0,Low,Unsatisfied
+289,30,Male,Clothing,62,North Carolina,3.7,Bi-Weekly,4.0,Medium,Satisfied
+290,49,Male,Outerwear,85,New York,4.5,Monthly,3.0,High,Satisfied
+291,58,Male,Clothing,33,Colorado,3.7,Weekly,5.0,Low,Satisfied
+292,57,Male,Clothing,26,Delaware,3.3,Monthly,3.0,Low,Unsatisfied
+293,60,Male,Footwear,99,Utah,4.7,Quarterly,2.0,High,Satisfied
+294,69,Male,Accessories,39,Connecticut,2.7,Annually,1.0,Low,Unsatisfied
+296,53,Male,Accessories,42,West Virginia,2.7,Quarterly,2.0,Low,Unsatisfied
+297,25,Male,Footwear,74,Indiana,4.8,Weekly,5.0,High,Satisfied
+298,48,Male,Footwear,26,Delaware,4.4,Bi-Weekly,4.0,Low,Satisfied
+300,25,Male,Footwear,80,Pennsylvania,3.2,Fortnightly,4.0,High,Unsatisfied
+301,29,Male,Accessories,98,Iowa,4.4,Weekly,5.0,High,Satisfied
+304,20,Male,Footwear,60,Oregon,3.3,Weekly,5.0,Medium,Unsatisfied
+305,40,Male,Clothing,84,Oregon,3.4,Bi-Weekly,4.0,High,Unsatisfied
+306,60,Male,Clothing,59,Utah,3.5,Annually,1.0,Medium,Unsatisfied
+307,26,Male,Outerwear,49,North Dakota,3.6,Annually,1.0,Medium,Satisfied
+309,66,Male,Accessories,29,Maryland,3.7,Bi-Weekly,4.0,Low,Satisfied
+310,66,Male,Clothing,22,Minnesota,4.5,Fortnightly,4.0,Low,Satisfied
+311,56,Male,Clothing,85,Montana,4.6,Fortnightly,4.0,High,Satisfied
+312,69,Male,Clothing,52,Rhode Island,4.1,Monthly,3.0,Medium,Satisfied
+313,38,Male,Clothing,89,Massachusetts,3.4,Annually,1.0,High,Unsatisfied
+316,66,Male,Accessories,24,Wisconsin,4.5,Annually,1.0,Low,Satisfied
+317,36,Male,Accessories,22,California,3.3,Monthly,3.0,Low,Unsatisfied
+319,45,Male,Accessories,67,South Dakota,2.5,Annually,1.0,Medium,Unsatisfied
+321,66,Male,Accessories,72,Kansas,4.9,Quarterly,2.0,Medium,Satisfied
+322,41,Male,Footwear,36,Vermont,4.7,Quarterly,2.0,Low,Satisfied
+323,41,Male,Accessories,95,Tennessee,3.0,Monthly,3.0,High,Unsatisfied
+324,66,Male,Clothing,78,Tennessee,3.5,Bi-Weekly,4.0,High,Unsatisfied
+325,37,Male,Clothing,82,Wyoming,4.8,Quarterly,2.0,High,Satisfied
+326,70,Male,Clothing,70,Vermont,4.3,Annually,1.0,Medium,Satisfied
+327,62,Male,Accessories,41,New Jersey,3.2,Weekly,5.0,Low,Unsatisfied
+328,61,Male,Outerwear,42,Iowa,3.1,Weekly,5.0,Low,Unsatisfied
+329,48,Male,Outerwear,50,Florida,2.8,Weekly,5.0,Medium,Unsatisfied
+330,70,Male,Clothing,31,Nevada,2.9,Monthly,3.0,Low,Unsatisfied
+331,46,Male,Clothing,51,North Dakota,3.7,Bi-Weekly,4.0,Medium,Satisfied
+332,31,Male,Clothing,98,Florida,3.3,Quarterly,2.0,High,Unsatisfied
+333,19,Male,Clothing,86,New York,2.8,Monthly,3.0,High,Unsatisfied
+334,39,Male,Clothing,64,Alaska,4.5,Bi-Weekly,4.0,Medium,Satisfied
+335,41,Male,Clothing,46,Kansas,2.6,Annually,1.0,Low,Unsatisfied
+337,36,Male,Accessories,81,Rhode Island,4.4,Annually,1.0,High,Satisfied
+338,32,Male,Clothing,59,New Mexico,4.3,Annually,1.0,Medium,Satisfied
+339,69,Male,Clothing,79,Massachusetts,3.5,Weekly,5.0,High,Unsatisfied
+342,20,Male,Accessories,20,Utah,4.6,Bi-Weekly,4.0,Low,Satisfied
+344,27,Male,Footwear,39,Nebraska,4.4,Monthly,3.0,Low,Satisfied
+345,24,Male,Clothing,71,Virginia,4.0,Monthly,3.0,Medium,Satisfied
+346,48,Male,Footwear,59,Wyoming,4.4,Annually,1.0,Medium,Satisfied
+347,49,Male,Clothing,50,New Mexico,4.7,Weekly,5.0,Medium,Satisfied
+348,36,Male,Footwear,41,Oregon,3.9,Fortnightly,4.0,Low,Satisfied
+349,56,Male,Clothing,59,South Carolina,2.7,Fortnightly,4.0,Medium,Unsatisfied
+350,37,Male,Accessories,87,Arizona,3.7,Bi-Weekly,4.0,High,Satisfied
+351,42,Male,Clothing,68,Kentucky,2.6,Fortnightly,4.0,Medium,Unsatisfied
+352,28,Male,Clothing,90,New York,3.9,Bi-Weekly,4.0,High,Satisfied
+354,63,Male,Footwear,64,Missouri,4.1,Monthly,3.0,Medium,Satisfied
+355,58,Male,Accessories,76,Pennsylvania,3.0,Weekly,5.0,High,Unsatisfied
+357,56,Male,Clothing,80,Nevada,3.8,Weekly,5.0,High,Satisfied
+358,18,Male,Accessories,56,Arkansas,4.0,Bi-Weekly,4.0,Medium,Satisfied
+361,51,Male,Clothing,30,Rhode Island,3.0,Fortnightly,4.0,Low,Unsatisfied
+362,65,Male,Clothing,96,Nevada,2.6,Annually,1.0,High,Unsatisfied
+363,53,Male,Footwear,64,Texas,3.4,Fortnightly,4.0,Medium,Unsatisfied
+364,55,Male,Clothing,88,Florida,3.1,Fortnightly,4.0,High,Unsatisfied
+366,55,Male,Accessories,88,West Virginia,3.7,Quarterly,2.0,High,Satisfied
+367,64,Male,Clothing,36,Nebraska,3.5,Fortnightly,4.0,Low,Unsatisfied
+368,52,Male,Clothing,40,Tennessee,2.8,Monthly,3.0,Low,Unsatisfied
+369,24,Male,Accessories,39,Oklahoma,4.5,Monthly,3.0,Low,Satisfied
+370,38,Male,Accessories,40,Wisconsin,3.3,Quarterly,2.0,Low,Unsatisfied
+371,59,Male,Accessories,34,Oregon,3.4,Weekly,5.0,Low,Unsatisfied
+372,27,Male,Footwear,83,North Carolina,3.2,Monthly,3.0,High,Unsatisfied
+373,24,Male,Clothing,85,Pennsylvania,3.7,Weekly,5.0,High,Satisfied
+374,23,Male,Outerwear,27,North Dakota,4.6,Bi-Weekly,4.0,Low,Satisfied
+375,69,Male,Accessories,78,Ohio,5.0,Monthly,3.0,High,Satisfied
+376,59,Male,Accessories,32,Oklahoma,4.4,Quarterly,2.0,Low,Satisfied
+377,51,Male,Footwear,51,South Carolina,4.9,Bi-Weekly,4.0,Medium,Satisfied
+379,54,Male,Clothing,62,Nevada,4.9,Monthly,3.0,Medium,Satisfied
+380,32,Male,Clothing,29,Montana,4.7,Bi-Weekly,4.0,Low,Satisfied
+381,39,Male,Accessories,69,New Hampshire,3.0,Weekly,5.0,Medium,Unsatisfied
+383,28,Male,Clothing,76,California,3.2,Quarterly,2.0,High,Unsatisfied
+384,50,Male,Accessories,77,West Virginia,2.9,Quarterly,2.0,High,Unsatisfied
+385,70,Male,Clothing,33,California,4.5,Annually,1.0,Low,Satisfied
+386,67,Male,Clothing,93,West Virginia,2.7,Bi-Weekly,4.0,High,Unsatisfied
+387,64,Male,Accessories,39,Louisiana,3.4,Quarterly,2.0,Low,Unsatisfied
+388,45,Male,Outerwear,93,Georgia,4.6,Fortnightly,4.0,High,Satisfied
+389,22,Male,Accessories,82,Washington,2.7,Quarterly,2.0,High,Unsatisfied
+390,27,Male,Footwear,42,Virginia,4.2,Monthly,3.0,Low,Satisfied
+391,25,Male,Accessories,71,Indiana,3.2,Annually,1.0,Medium,Unsatisfied
+392,37,Male,Clothing,86,Minnesota,4.8,Fortnightly,4.0,High,Satisfied
+393,26,Male,Clothing,82,Idaho,3.3,Annually,1.0,High,Unsatisfied
+394,33,Male,Footwear,65,Vermont,4.2,Fortnightly,4.0,Medium,Satisfied
+395,43,Male,Accessories,29,North Dakota,4.8,Bi-Weekly,4.0,Low,Satisfied
+396,37,Male,Footwear,65,Rhode Island,4.9,Annually,1.0,Medium,Satisfied
+397,46,Male,Clothing,88,South Carolina,3.9,Annually,1.0,High,Satisfied
+398,22,Male,Accessories,46,Mississippi,3.0,Annually,1.0,Low,Unsatisfied
+400,60,Male,Accessories,35,Idaho,3.5,Monthly,3.0,Low,Unsatisfied
+401,39,Male,Footwear,66,Utah,4.8,Fortnightly,4.0,Medium,Satisfied
+402,43,Male,Clothing,91,Oklahoma,4.8,Quarterly,2.0,High,Satisfied
+403,31,Male,Accessories,78,California,3.0,Monthly,3.0,High,Unsatisfied
+404,19,Male,Footwear,45,Nevada,4.5,Annually,1.0,Low,Satisfied
+405,35,Male,Clothing,93,Delaware,4.8,Monthly,3.0,High,Satisfied
+406,41,Male,Clothing,74,South Carolina,3.8,Annually,1.0,High,Satisfied
+407,52,Male,Accessories,55,Maryland,4.6,Monthly,3.0,Medium,Satisfied
+408,45,Male,Clothing,76,North Carolina,3.1,Bi-Weekly,4.0,High,Unsatisfied
+409,34,Male,Footwear,66,Alabama,3.4,Fortnightly,4.0,Medium,Unsatisfied
+410,35,Male,Clothing,51,Minnesota,3.3,Monthly,3.0,Medium,Unsatisfied
+411,29,Male,Clothing,26,Virginia,4.8,Quarterly,2.0,Low,Satisfied
+412,59,Male,Clothing,29,Michigan,2.8,Annually,1.0,Low,Unsatisfied
+413,24,Male,Outerwear,74,Maine,3.1,Weekly,5.0,High,Unsatisfied
+414,70,Male,Accessories,99,Nevada,4.6,Monthly,3.0,High,Satisfied
+415,29,Male,Accessories,88,Wyoming,2.6,Weekly,5.0,High,Unsatisfied
+416,67,Male,Outerwear,31,Connecticut,2.6,Monthly,3.0,Low,Unsatisfied
+417,36,Male,Accessories,55,Oregon,3.8,Fortnightly,4.0,Medium,Satisfied
+418,23,Male,Footwear,81,Mississippi,4.5,Quarterly,2.0,High,Satisfied
+419,18,Male,Clothing,73,Illinois,3.0,Bi-Weekly,4.0,High,Unsatisfied
+421,32,Male,Clothing,54,North Carolina,3.8,Bi-Weekly,4.0,Medium,Satisfied
+422,38,Male,Clothing,40,Kentucky,3.5,Bi-Weekly,4.0,Low,Unsatisfied
+423,47,Male,Clothing,59,Minnesota,3.1,Annually,1.0,Medium,Unsatisfied
+424,46,Male,Accessories,26,New York,3.0,Bi-Weekly,4.0,Low,Unsatisfied
+425,66,Male,Clothing,23,Illinois,4.3,Fortnightly,4.0,Low,Satisfied
+426,40,Male,Clothing,87,North Dakota,3.3,Quarterly,2.0,High,Unsatisfied
+427,43,Male,Clothing,71,Louisiana,4.7,Quarterly,2.0,Medium,Satisfied
+428,58,Male,Accessories,91,Illinois,4.5,Quarterly,2.0,High,Satisfied
+429,21,Male,Outerwear,64,Wyoming,2.9,Fortnightly,4.0,Medium,Unsatisfied
+430,42,Male,Footwear,94,Washington,4.1,Fortnightly,4.0,High,Satisfied
+431,24,Male,Clothing,40,Texas,3.5,Annually,1.0,Low,Unsatisfied
+432,43,Male,Accessories,76,New Hampshire,3.4,Fortnightly,4.0,High,Unsatisfied
+433,47,Male,Clothing,86,Indiana,3.3,Weekly,5.0,High,Unsatisfied
+434,49,Male,Clothing,92,Alabama,3.2,Fortnightly,4.0,High,Unsatisfied
+436,51,Male,Outerwear,28,Montana,3.6,Monthly,3.0,Low,Satisfied
+437,40,Male,Clothing,46,Tennessee,4.6,Weekly,5.0,Low,Satisfied
+438,45,Male,Accessories,50,New Mexico,2.6,Annually,1.0,Medium,Unsatisfied
+439,52,Male,Accessories,23,Iowa,4.3,Fortnightly,4.0,Low,Satisfied
+440,62,Male,Outerwear,50,Idaho,3.4,Monthly,3.0,Medium,Unsatisfied
+441,20,Male,Clothing,89,Oklahoma,3.5,Fortnightly,4.0,High,Unsatisfied
+442,43,Male,Clothing,81,Florida,4.2,Annually,1.0,High,Satisfied
+443,29,Male,Accessories,69,Michigan,3.5,Quarterly,2.0,Medium,Unsatisfied
+444,22,Male,Accessories,67,Hawaii,3.6,Annually,1.0,Medium,Satisfied
+445,48,Male,Clothing,20,California,4.3,Annually,1.0,Low,Satisfied
+446,42,Male,Footwear,29,Iowa,4.9,Annually,1.0,Low,Satisfied
+447,19,Male,Clothing,74,West Virginia,4.1,Monthly,3.0,High,Satisfied
+449,32,Male,Accessories,23,Missouri,3.4,Fortnightly,4.0,Low,Unsatisfied
+450,26,Male,Accessories,45,New York,2.9,Monthly,3.0,Low,Unsatisfied
+451,25,Male,Footwear,21,Connecticut,2.7,Monthly,3.0,Low,Unsatisfied
+452,66,Male,Accessories,31,Virginia,4.3,Fortnightly,4.0,Low,Satisfied
+453,45,Male,Clothing,45,Missouri,3.3,Fortnightly,4.0,Low,Unsatisfied
+454,54,Male,Accessories,56,Nebraska,2.8,Weekly,5.0,Medium,Unsatisfied
+455,37,Male,Outerwear,97,New Jersey,3.2,Bi-Weekly,4.0,High,Unsatisfied
+456,54,Male,Clothing,100,Utah,3.6,Fortnightly,4.0,High,Satisfied
+457,50,Male,Clothing,96,North Carolina,4.0,Quarterly,2.0,High,Satisfied
+459,47,Male,Clothing,91,Arkansas,4.0,Monthly,3.0,High,Satisfied
+460,63,Male,Accessories,30,Maryland,3.8,Fortnightly,4.0,Low,Satisfied
+461,64,Male,Footwear,65,South Carolina,3.7,Weekly,5.0,Medium,Satisfied
+462,18,Male,Footwear,93,Ohio,3.9,Weekly,5.0,High,Satisfied
+464,37,Male,Accessories,81,Georgia,2.7,Weekly,5.0,High,Unsatisfied
+465,23,Male,Accessories,52,Alabama,4.7,Monthly,3.0,Medium,Satisfied
+466,54,Male,Clothing,88,Oklahoma,2.8,Quarterly,2.0,High,Unsatisfied
+467,38,Male,Clothing,24,Vermont,4.6,Weekly,5.0,Low,Satisfied
+469,34,Male,Accessories,38,Georgia,5.0,Quarterly,2.0,Low,Satisfied
+470,21,Male,Clothing,46,Alabama,4.1,Bi-Weekly,4.0,Low,Satisfied
+472,55,Male,Accessories,72,Missouri,4.9,Quarterly,2.0,Medium,Satisfied
+473,20,Male,Clothing,39,Georgia,3.9,Quarterly,2.0,Low,Satisfied
+475,62,Male,Clothing,76,Arkansas,2.6,Quarterly,2.0,High,Unsatisfied
+476,21,Male,Footwear,66,Ohio,2.7,Annually,1.0,Medium,Unsatisfied
+477,21,Male,Accessories,90,Connecticut,3.5,Fortnightly,4.0,High,Unsatisfied
+478,42,Male,Clothing,56,North Dakota,3.7,Weekly,5.0,Medium,Satisfied
+479,35,Male,Accessories,43,Kansas,3.2,Annually,1.0,Low,Unsatisfied
+480,39,Male,Accessories,84,Iowa,3.3,Monthly,3.0,High,Unsatisfied
+481,68,Male,Clothing,88,Vermont,4.8,Bi-Weekly,4.0,High,Satisfied
+482,46,Male,Accessories,88,Wisconsin,3.2,Fortnightly,4.0,High,Unsatisfied
+483,41,Male,Accessories,42,Connecticut,2.5,Annually,1.0,Low,Unsatisfied
+484,23,Male,Clothing,73,Oklahoma,3.9,Weekly,5.0,High,Satisfied
+485,68,Male,Accessories,73,Missouri,4.7,Quarterly,2.0,High,Satisfied
+486,48,Male,Footwear,44,Tennessee,2.6,Fortnightly,4.0,Low,Unsatisfied
+488,41,Male,Outerwear,68,Iowa,4.4,Quarterly,2.0,Medium,Satisfied
+489,58,Male,Clothing,29,Maine,4.6,Weekly,5.0,Low,Satisfied
+490,49,Male,Clothing,85,South Dakota,3.2,Annually,1.0,High,Unsatisfied
+491,57,Male,Footwear,42,Colorado,4.2,Monthly,3.0,Low,Satisfied
+492,49,Male,Outerwear,69,Vermont,3.7,Bi-Weekly,4.0,Medium,Satisfied
+493,50,Male,Clothing,62,Michigan,3.9,Weekly,5.0,Medium,Satisfied
+494,28,Male,Accessories,48,Nevada,4.7,Bi-Weekly,4.0,Medium,Satisfied
+495,38,Male,Footwear,68,Indiana,4.5,Weekly,5.0,Medium,Satisfied
+496,33,Male,Accessories,36,Michigan,3.3,Fortnightly,4.0,Low,Unsatisfied
+497,30,Male,Clothing,63,California,3.3,Fortnightly,4.0,Medium,Unsatisfied
+498,43,Male,Footwear,39,Oklahoma,4.6,Weekly,5.0,Low,Satisfied
+499,43,Male,Footwear,78,Iowa,3.6,Monthly,3.0,High,Satisfied
+500,36,Male,Footwear,99,Rhode Island,4.8,Monthly,3.0,High,Satisfied

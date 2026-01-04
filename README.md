@@ -1,14 +1,14 @@
-# Customer Segmentation Project
+# Customer Behaviour And Segmentation Project
 
 ## Overview
-This project involves analyzing customer data to segment them based on **purchase amount, purchase frequency, and satisfaction**. Customers were grouped into **low-value, medium-value, and high-value segments**. Insights were visualized using interactive dashboards, and actionable recommendations were provided to improve marketing strategies, customer engagement, and overall business performance.
+This project involves analyzing customer data to segment them based on **purchase amount, purchase frequency, and satisfaction**. Customers were grouped into **low-value, medium-value, and high-value segments**. Insights were visualized and actionable recommendations were provided to improve marketing strategies, customer engagement, and overall business performance.
 
 ---
 
 ## Objectives
 - Segment customers based on purchase behavior and satisfaction  
 - Identify high-value and low-value customer groups for targeted marketing  
-- Visualize trends and insights using interactive dashboards  
+- Visualize trends and insights  
 - Provide data-driven recommendations for business growth  
 
 ---
@@ -16,23 +16,23 @@ This project involves analyzing customer data to segment them based on **purchas
 ## Data
 - Customer purchase data including amount and frequency  
 - Customer satisfaction data from review ratings  
-- Combined dataset for segmentation analysis  
-
+  
 ---
 
 ## Analysis & Approach
 1. Collected and cleaned customer data  
 2. Calculated purchase metrics and processed satisfaction ratings  
-3. Applied clustering techniques to segment customers into low-, medium-, and high-value groups  
-4. Visualized insights through **Power BI dashboards**  
+3. Applied clustering techniques to segment customers into low, medium, and high-value groups  
+4. Visualized insights through **Power BI**  
 5. Provided actionable recommendations for marketing and engagement  
 
 ---
 
 ## Key Findings
-- Customers can be clearly grouped into low-value, medium-value, and high-value segments  
-- High-value customers had higher satisfaction ratings and frequent purchases  
-- Low-value customers showed opportunities for engagement and improvement  
+- High-value customers had higher average purchase amount ($85.9) and frequent purchases  
+- Low-value customers spend on average ($33.8), showing opportunities for engagement and improvement
+- Avergae of purchase amount was ($60)
+- Average Review Ratings were (3.75 stars), indicating many customers are not satisfied 
 - Dashboards highlight trends in purchasing behavior and satisfaction  
 
 ---
@@ -46,8 +46,8 @@ This project involves analyzing customer data to segment them based on **purchas
 ---
 
 ## Tools Used
-- **MS Excel** – data cleaning and calculations  
-- **Python (Pandas, Scikit-learn)** – clustering and segmentation analysis  
-- **Power BI** – interactive dashboards and visualization  
+- **MS Excel**
+- **Python (Pandas, Scikit-learn)** for clustering and segmentation analysis  
+- **Power BI** used for dashboards and visualization  
 
 ---
